@@ -18,7 +18,6 @@ Have experience in:
 
 📫 How to reach me:
 * 📧ioki9@hotmail.com
-* 
 <!--
 **ioki9/ioki9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
