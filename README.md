@@ -1,5 +1,24 @@
-### Hi there 👋
+### Hi there
+i'm self thought developer, statrted with c++ and trying to learn all the stuff that comes handy or interesting to me.
 
+Have experience in:
+* C++
+* Cmake
+* SQLite3
+* PDF
+* wxWidgets
+
+🌱 I’m currently learning :
+* started to learn assembly language
+* trying myself in embedded software development
+
+⏳ Future learnings plans:
+* other language(didnt't decide what yet)
+* to learn neural networks
+
+📫 How to reach me:
+* 📧ioki9@hotmail.com
+* 
 <!--
 **ioki9/ioki9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
