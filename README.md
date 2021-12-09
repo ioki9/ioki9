@@ -5,7 +5,6 @@ Have experience in:
 * C++
 * Cmake
 * SQLite3
-* PDF
 * wxWidgets
 
 🌱 I’m currently learning :
