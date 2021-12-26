@@ -9,7 +9,6 @@ Have experience in:
 
 🌱 I’m currently learning :
 * started to learn assembly language
-* trying myself in embedded software development
 
 ⏳ Future learnings plans:
 * other language(didnt't decide what yet)
