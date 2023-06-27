@@ -1,5 +1,5 @@
 ### Hi there
-i'm self thought developer, statrted with c++ and trying to learn all the stuff that comes handy or interesting to me.
+I'm self thought developer, statrted with c++ and trying to learn all the stuff that comes handy or interesting to me. Searching for a job currently.
 
 Have experience in:
 * C++
@@ -9,11 +9,9 @@ Have experience in:
 * Qt/QML
 
 🌱 I’m currently learning :
-* started to learn assembly language
-
+* some other languages (JS/python) here and there
 ⏳ Future learnings plans:
-* other language(didnt't decide what yet)
-* to learn neural networks
+* to learn machine learning
 
 📫 How to reach me:
 * 📧ioki9@hotmail.com
