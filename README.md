@@ -6,7 +6,7 @@ Have experience in:
 * Cmake
 * SQLite3
 * wxWidgets
-* Qt
+* Qt/QML
 
 🌱 I’m currently learning :
 * started to learn assembly language
