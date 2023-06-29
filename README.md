@@ -10,6 +10,7 @@ Have experience in:
 
 🌱 I’m currently learning :
 * some other languages (JS/python) here and there
+
 ⏳ Future learnings plans:
 * to learn machine learning
 
