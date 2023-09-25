@@ -9,7 +9,7 @@ Have experience in:
 * Qt/QML
 
 🌱 I’m currently learning :
-* some other languages (JS/python) here and there
+* some other languages (JS/python/C#) here and there
 
 ⏳ Future learnings plans:
 * to learn machine learning
