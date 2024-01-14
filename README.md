@@ -1,5 +1,5 @@
 ### Hi there
-I'm self thought developer, statrted with C++ and trying to learn all the stuff that comes handy or interesting to me. Searching for a job currently.
+I'm self thought developer, statrted with C++ and trying to learn all the stuff that comes handy or interesting to me.
 
 Have experience in:
 * C++
